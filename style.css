@@ -1,0 +1,15 @@
+/*
+Plugin Name: Porn Embed
+Plugin URI: http://scobiform.com/wp-porn-embed-plugin
+Description: Adds Embed support for xhamster.com, xvideos.com, youporn.com, tube.com and pornhub.com in WordPress posts, pages and custom post types.
+Version: 0.0.3
+Author: Scobiform
+Author URI: http://scobiform.com
+License: GPL2
+*/
+
+
+#pornembed iframe {
+	width:100%;
+	height:450px;
+	}
